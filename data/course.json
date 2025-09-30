@@ -1,0 +1,68 @@
+{
+  "term": "Spring",
+  "year": "2010",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Music",
+      "Music History"
+    ],
+    [
+      "Fine Arts",
+      "Music",
+      "Music Theory"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies",
+      "Digital Media"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ]
+  ],
+  "legacy_uid": "ce044817-a79a-807a-f5c1-2f71037663d4",
+  "instructors": {
+    "content": [
+      "5372fdf3-1d20-6255-d552-d5512391fb4f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "b2bb792f-ab8d-ac46-6a39-fc2f6d1946f7",
+    "website": "21m-380-music-and-technology-algorithmic-and-generative-music-spring-2010"
+  },
+  "course_title": "Music and Technology: Algorithmic and Generative Music",
+  "hide_download": true,
+  "course_description": "This course examines the history, techniques, and aesthetics of mechanical and computer-aided approaches to algorithmic music composition and generative music systems. Through creative hands-on projects, readings, listening assignments, and lectures, students will explore a variety of historical and contemporary approaches. Diverse tools and systems will be employed, including applications in Python, MIDI, Csound, SuperCollider, and Pure Data.\n",
+  "department_numbers": [
+    "21M"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21M.380",
+  "course_image_thumbnail": {
+    "content": "66ef42ec-2c99-cbeb-93d9-3644c4a2c5fb",
+    "website": "21m-380-music-and-technology-algorithmic-and-generative-music-spring-2010"
+  },
+  "hide_download_original": null,
+  "learning_resource_types": [
+    "Music Audio",
+    "Projects with Examples",
+    "Lecture Notes",
+    "Written Assignments with Examples",
+    "Design Assignments with Examples"
+  ],
+  "site_uid": "3a51bc68-0d92-4bf5-8772-019e76c7e28e",
+  "site_short_id": "21m.380-spring-2010",
+  "site_url_path": "courses/21m-380-music-and-technology-algorithmic-and-generative-music-spring-2010",
+  "title": "Course Metadata"
+}

@@ -1,0 +1,58 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 95cc49d3-861f-275f-cee5-d349cd6bfb09
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 75bd5fca-0656-2556-0642-292e727db7e8
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 20
+- identifier: 74745b64-4020-efa5-127c-d97d24b9218b
+  name: Readings and Listening
+  pageRef: /pages/readings-and-listening
+  weight: 30
+- identifier: 6e81c0bd-4e52-5a46-1f05-35f350963ca7
+  name: Assignments and Projects
+  pageRef: /pages/assignments-and-projects/
+  weight: 40
+- identifier: 89ac3698-3773-3e4c-c28a-471034f6579e
+  name: Design Report 1 sample
+  pageRef: /pages/assignments-and-projects/design-report-1
+  parent: 6e81c0bd-4e52-5a46-1f05-35f350963ca7
+  weight: 50
+- identifier: a952b77a-d664-2d41-9db3-6f413aaa2dfa
+  name: Design Report 2 sample
+  pageRef: /pages/assignments-and-projects/design-report-2
+  parent: 6e81c0bd-4e52-5a46-1f05-35f350963ca7
+  weight: 60
+- identifier: 6989e57d-2a83-ca14-8d25-9e22f19e5141
+  name: Design Report 3 sample
+  pageRef: /pages/assignments-and-projects/design-report-3
+  parent: 6e81c0bd-4e52-5a46-1f05-35f350963ca7
+  weight: 70
+- identifier: e0285a65-8bce-669a-777e-a93b6267e32d
+  name: 'Project Sample: Generative Context-free Grammars'
+  pageRef: /pages/assignments-and-projects/generative-context
+  parent: 6e81c0bd-4e52-5a46-1f05-35f350963ca7
+  weight: 80
+- identifier: f33c204f-01fa-d563-f886-7902bb7d9baa
+  name: 'Project Sample: Genetic Algorithms'
+  pageRef: /pages/assignments-and-projects/genetic-algorithms
+  parent: 6e81c0bd-4e52-5a46-1f05-35f350963ca7
+  weight: 90
+- identifier: fd7d0052-b2bd-a822-1685-719b3f1f304b
+  name: 'Project Sample: Video Soundtrack Generation with PD'
+  pageRef: /pages/assignments-and-projects/video-soundtrack
+  parent: 6e81c0bd-4e52-5a46-1f05-35f350963ca7
+  weight: 100
+- identifier: 6a377018-7047-3fe4-dc22-9f5085ddbe47
+  name: "Project Sample: Game of Life \u2013 With Music!"
+  pageRef: /pages/assignments-and-projects/project-sample-game-of-life-2013-with-music
+  parent: 6e81c0bd-4e52-5a46-1f05-35f350963ca7
+  weight: 110
+- identifier: dc8ff6e4-994c-dba9-9d1e-e129632be8a0
+  name: Tools
+  pageRef: /pages/tools
+  weight: 120
