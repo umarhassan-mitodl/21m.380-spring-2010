@@ -2,8 +2,6 @@
 content_type: page
 description: This section presents the lecture notes for each session of the course
   along with a complete set of lecture notes compiled as a single file.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

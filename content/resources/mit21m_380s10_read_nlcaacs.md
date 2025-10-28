@@ -5,8 +5,6 @@ description: This resource contains information related to navigating the landsc
 file: /courses/21m-380-music-and-technology-algorithmic-and-generative-music-spring-2010/0d5e3b2b127074e9c5bb7fea1a783e31_MIT21M_380S10_read_nlcaacs.pdf
 file_size: 123231
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

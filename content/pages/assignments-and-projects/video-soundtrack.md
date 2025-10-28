@@ -12,7 +12,7 @@ uid: fd7d0052-b2bd-a822-1685-719b3f1f304b
 
 _Courtesy of MIT student, used with permission._
 
-My sonic system was an attempt at soundtrack generation to a given piece of film. For my video test material, I used an old 1950s PSA about surviving a nuclear attack. The footage is part of the [Prelinger Archive](http://www.archive.org/details/prelinger). It is in black and white deliberately to limit the amount of visual information I have to deal with and to make the project simpler.
+My sonic system was an attempt at soundtrack generation to a given piece of film. For my video test material, I used an old 1950s PSA about surviving a nuclear attack. The footage is part of the {{% resource_link "6533d38c-ed6a-463f-b7c0-29d789be24f9" "Prelinger Archive" %}}. It is in black and white deliberately to limit the amount of visual information I have to deal with and to make the project simpler.
 
 I used PD as my platform for producing sound. I also used tools from GEM to both play the footage and to draw color values from frames of the video. To start, I used a 3x3 grid of pixel "sensors" to pick up color information from the frames of the video. While the GEM object "pix\_data" can also produce RGB values, I only needed the greyscale values. This gave me 9 streams of values ranging between 0-1 where 1 = white and 0 = black to use in sound generation.
 
@@ -36,6 +36,6 @@ Project Sample: Video soundtrack generation with PD 2.
 
 Project Sample: Video soundtrack generation with PD 3.
 
-Source video: 1951 US Civil Defense film [Survival Under Atomic Attack](http://www.archive.org/details/Survival1951)
+Source video: 1951 US Civil Defense film {{% resource_link "e37431df-8e7c-423e-bf36-89c74f63f71e" "Survival Under Atomic Attack" %}}
 
 Code and input audio samples ({{% resource_link 31d5efed-e8c7-d8e5-b636-628cc9d61bc1 "ZIP" %}}) (This ZIP file contains 1 .pd and 3 .wav files)

@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Assignments and Projects
@@ -17,7 +15,7 @@ Project Sample: Game of Life – With Music!
 
 _Courtesy of Spenser Skates. Used with permission._
 
-This is a Java™ applet based on the cellular automaton [Game of Life](http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life), devised by British mathematician John Conway in 1970. The display code is based on this [freeware](http://www.bitstorm.org/gameoflife/) by Edwin Martin.
+This is a Java™ applet based on the cellular automaton {{% resource_link "b795ea16-2950-48a6-b93d-9cf89dc25d79" "Game of Life" %}}, devised by British mathematician John Conway in 1970. The display code is based on this {{% resource_link "e41a14ac-ec98-474f-969a-64f3ec998c1d" "freeware" %}} by Edwin Martin.
 
 [Load the applet](/ans7870/21m/21m.380/S10/projects/life/gameoflifewithsound.html)
 

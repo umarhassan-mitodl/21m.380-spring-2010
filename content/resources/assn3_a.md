@@ -4,8 +4,6 @@ description: 'This resource contains supporting file for assignment 3. '
 file: /courses/21m-380-music-and-technology-algorithmic-and-generative-music-spring-2010/2d1cc967b575490007c4c08a85e8e973_assn3_a.pd
 file_size: 19836
 file_type: application/octet-stream
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

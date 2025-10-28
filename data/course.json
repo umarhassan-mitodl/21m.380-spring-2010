@@ -42,7 +42,6 @@
     "website": "21m-380-music-and-technology-algorithmic-and-generative-music-spring-2010"
   },
   "course_title": "Music and Technology: Algorithmic and Generative Music",
-  "hide_download": true,
   "course_description": "This course examines the history, techniques, and aesthetics of mechanical and computer-aided approaches to algorithmic music composition and generative music systems. Through creative hands-on projects, readings, listening assignments, and lectures, students will explore a variety of historical and contemporary approaches. Diverse tools and systems will be employed, including applications in Python, MIDI, Csound, SuperCollider, and Pure Data.\n",
   "department_numbers": [
     "21M"
@@ -53,7 +52,6 @@
     "content": "66ef42ec-2c99-cbeb-93d9-3644c4a2c5fb",
     "website": "21m-380-music-and-technology-algorithmic-and-generative-music-spring-2010"
   },
-  "hide_download_original": null,
   "learning_resource_types": [
     "Music Audio",
     "Projects with Examples",

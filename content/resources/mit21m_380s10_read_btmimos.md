@@ -5,8 +5,6 @@ description: 'This resource contains information related to beyond the transitio
 file: /courses/21m-380-music-and-technology-algorithmic-and-generative-music-spring-2010/2de9e6cf71010ccf299663076761a7fb_MIT21M_380S10_read_btmimos.pdf
 file_size: 271064
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
